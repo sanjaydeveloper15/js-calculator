@@ -1,0 +1,13 @@
+#app{
+	margin: auto;
+	max-width: 480px;
+	border: 1px solid green;
+	border-radius: 5px;
+	padding: 10px;
+}
+.row{
+	margin-top: 5px;
+}
+.btn-block{
+	width: 100%;
+}
